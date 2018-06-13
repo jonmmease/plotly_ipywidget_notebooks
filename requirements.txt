@@ -6,3 +6,5 @@ numpy
 pandas
 sklearn
 scipy
+pillow
+datashader
