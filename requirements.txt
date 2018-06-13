@@ -2,3 +2,6 @@ plotly==3.0rc6
 ipywidgets
 notebook
 jupyterlab
+numpy
+pandas
+sklearn
