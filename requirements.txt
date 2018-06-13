@@ -5,3 +5,4 @@ jupyterlab
 numpy
 pandas
 sklearn
+scipy
