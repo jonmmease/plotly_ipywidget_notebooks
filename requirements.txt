@@ -1,3 +1,4 @@
+python==3.6
 plotly==3.0rc6
 ipywidgets
 notebook
