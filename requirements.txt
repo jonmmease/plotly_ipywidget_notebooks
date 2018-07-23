@@ -1,4 +1,4 @@
-plotly>=3.0
+plotly>=3.1
 ipywidgets
 notebook
 jupyterlab
